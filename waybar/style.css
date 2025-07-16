@@ -1,0 +1,26 @@
+* {
+  font-family: monospace;
+  color: #e7ad31;
+  background: transparent;
+  border: none;
+}
+window {
+    background-color: rgba(0, 0, 0, 0.50);
+}
+
+#workspaces button {
+  padding: 0 5px;
+}
+
+#workspaces button.visible {
+  background-color: rgba(231, 173, 49, 0.2); /* Light transparent yellow */
+  color: #e7ad31;
+}
+
+#clock,
+#battery,
+#network,
+#cpu,
+#memory {
+  padding: 0 10px;
+}

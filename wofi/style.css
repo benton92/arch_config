@@ -1,0 +1,20 @@
+window {
+    background-color: #000000;
+    color: #e7ad31;
+    font-family: monospace;
+}
+
+#entry {
+    color: #e7ad31;
+}
+
+#entry:selected {
+    background-color: #222222;
+    color: #e7ad31;
+}
+
+#input {
+    background-color: #000000;
+    color: #e7ad31;
+    border: none;
+}
